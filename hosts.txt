@@ -1,6 +1,6 @@
 [web-servers]
-web-server
+web-server  ansible_host=192.169.100.10
 
 
 [db-servers]
-db-server
+db-server  ansible_host=192.168.100.11
