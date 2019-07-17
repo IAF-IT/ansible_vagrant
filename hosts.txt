@@ -1,0 +1,6 @@
+[web-servers]
+web-server
+
+
+[db-servers]
+db-server
